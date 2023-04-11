@@ -1,0 +1,16 @@
+ligne2 
+ligne3
+
+.gitignore permet de lister les fichiers qque l'on souhaite ignorer par git 
+
+#par inclusion: je liste les fichier à ignorer
+*.htlm
+output/
+
+
+#par exclusion: je commence par tout ignorer et liste les fichier à ne pas ignorer 
+/*
+!.gitignore
+!README.md
+!logo*
+!TESTS
