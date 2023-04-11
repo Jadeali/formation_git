@@ -14,3 +14,4 @@ output/
 !README.md
 !logo*
 !TESTSNew code
+STOP
